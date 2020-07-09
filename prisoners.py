@@ -1,6 +1,6 @@
-import pandas as pd#importing pandas to perform data analysis
-import seaborn as sns#to visualize data
-from matplotlib import pyplot as plt#to visualize data
+import pandas as pd
+import seaborn as sns
+from matplotlib import pyplot as plt
 
 #reading data from prisoners.csv file
 df=pd.read_csv('C:\\Users\\vinayak\\Downloads\\D6_Sessions_practise\\prisoners.csv')
